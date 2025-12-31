@@ -37,7 +37,7 @@ Truth Wave は単なる開発者ではなく、
 「思想を持った長期投資」という哲学をAIに学習させ、判断の軸を提供します。  
 データ分析と人間の思考法を融合し、より確かな意思決定をサポートします。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/Buffett-Graham-GPTs)  
-🛒 [noteで相談・購入](https://note.com/truth_wave/n/n92be6e1aca01)  
+🛒 [noteで相談・購入](https://note.com/truth_wave/n/n382e68e3d601)  
 
 ---
 
@@ -46,7 +46,7 @@ Truth Wave は単なる開発者ではなく、
 領収書の整理から税額の試算までを自動化し、本来の仕事に集中できる時間を取り戻します。  
 「時間は有限」という真理を形にしたツール。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor)  
-🛒 [noteで相談・購入](https://note.com/truth_wave/n/nff6385369a64)  
+🛒 [noteで相談・購入](https://note.com/truth_wave/n/n220ba26168c3)  
 
 ---
 
