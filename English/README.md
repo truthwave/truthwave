@@ -35,7 +35,7 @@ The world of investing can't be defined by numbers alone.
 We train AI in the philosophy of “long-term investing with conviction,” providing a framework for decision-making.  
 By merging data analysis with human thought processes, we support more reliable decision-making.  
 👉 [GitHub Repository](https://github.com/truthwave/Buffett-Graham-GPTs/tree/main/English)  
-🛒 [Consult/Purchase on note](https://note.com/truth_wave/n/n92be6e1aca01)  
+🛒 [Consult/Purchase on note](https://note.com/truth_wave/n/n382e68e3d601)  
 
 ---
 
@@ -44,7 +44,7 @@ For freelancers and small business owners, taxes are the biggest obstacle to cre
 Automate everything from organizing receipts to estimating tax amounts, freeing up time to focus on your core work.  
 A tool embodying the truth that “time is finite.”  
 👉 [GitHub Repository](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/tree/main/English)  
-🛒 [Consult/Purchase on note](https://note.com/truth_wave/n/nff6385369a64)  
+🛒 [Consult/Purchase on note](https://note.com/truth_wave/n/n220ba26168c3)  
 
 ---
 
