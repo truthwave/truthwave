@@ -7,11 +7,6 @@
 
 ---
 
-## 📺 Watch on Youtube
-[![Leave only judgment. — Truth Wave 60-Second Manifesto](https://github.com/user-attachments/assets/53ed7b48-299e-494b-b6f5-421abad0ae7c)](https://youtu.be/LDevuUGdPAU)
-
----
-
 ## 🌌 Philosophy
 Discover the essence and spread it like ripples.  
 We deliver systems with “practicality” and “sustainability” through AI and web technology.  
