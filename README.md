@@ -50,7 +50,7 @@ Truth Wave は単なる開発者ではなく、
 要約、返信草案、トーン調整をAIが担うことで、伝えるべき本質だけに集中できます。  
 「コミュニケーションを効率化することは、思考を豊かにすること」――それを体現します。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/mail-efficiency-gpts)  
-🛒 [noteで相談・購入](https://note.com/truth_wave/n/n61c5d3749404)  
+🛒 [noteで相談・購入](https://note.com/truth_wave/n/nfaa7dce047bf)  
 
 ---
 
