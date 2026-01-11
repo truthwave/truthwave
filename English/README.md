@@ -48,7 +48,7 @@ Most of your day vanishes into emails.
 By letting AI handle summaries, draft replies, and tone adjustments, you can focus solely on conveying what truly matters.  
 “Streamlining communication enriches your thinking” – this embodies that principle.  
 👉 [GitHub Repository](https://github.com/truthwave/mail-efficiency-gpts/tree/main/English)  
-🛒 [Consult/Purchase on note](https://note.com/truth_wave/n/n61c5d3749404)  
+🛒 [Consult/Purchase on note](https://note.com/truth_wave/n/nfaa7dce047bf)  
 
 ---
 
