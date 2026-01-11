@@ -9,11 +9,6 @@
 
 ---
 
-## 📺 Watch on Youtube
-[![判断だけを残す。— Truth Wave 60秒マニフェスト](https://github.com/user-attachments/assets/7ba460dd-d477-4a5b-8fb0-ebdc02071a2e)](https://youtu.be/LDevuUGdPAU)
-
----
-
 ## 🌌 Philosophy
 本質を見つけ、それを波紋のように広げる。  
 AIとWeb技術を通じて「実用性」と「継続性」を持つ仕組みを届けます。  
