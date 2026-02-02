@@ -64,7 +64,6 @@ Feel free to reach out for any collaboration inquiries.
 - GitHub: [Truth Wave](https://github.com/truthwave)
 - note:[Truth Wave](https://note.com/truth_wave)
 - X (formerly Twitter): [@Truth Wave](https://x.com/Truth__Wave)  
-- Email: [📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
 
 ---
 
