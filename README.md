@@ -34,7 +34,7 @@ Truth Wave は単なる開発者ではなく、
 「思想を持った長期投資」という哲学をAIに学習させ、判断の軸を提供します。  
 データ分析と人間の思考法を融合し、より確かな意思決定をサポートします。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/Buffett-Graham-GPTs)  
-🛒 [noteで相談・購入](https://note.com/truth_wave/n/n382e68e3d601)  
+🛒 [noteで相談・購入]([https://note.com/truth_wave/n/n382e68e3d601](http://buffett-graham-analytics.vercel.app))  
 
 ---
 
