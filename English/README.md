@@ -30,7 +30,7 @@ The world of investing can't be defined by numbers alone.
 We train AI in the philosophy of “long-term investing with conviction,” providing a framework for decision-making.  
 By merging data analysis with human thought processes, we support more reliable decision-making.  
 👉 [GitHub Repository](https://github.com/truthwave/Buffett-Graham-GPTs/tree/main/English)  
-🛒 [Consult/Purchase on note](https://note.com/truth_wave/n/n382e68e3d601)  
+🛒 [Consult/Purchase on note](https://buffett-graham-analytics.vercel.app/?p=invest_entry&src=github&c=2026w07)  
 
 ---
 
